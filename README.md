@@ -11,5 +11,4 @@
 
 #### [Despliegue de interfaces de LABVIEW](https://github.com/ErickLopC/labview_hmi/blob/main/README.md)
 ----
-
-CONFIGURACION DE NETWORKING DEL TIA PORTAL 
+#### [--- ](https://github.com/ErickLopC/PENDIENTES_PLC/tree/main)
