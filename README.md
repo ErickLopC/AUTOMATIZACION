@@ -28,3 +28,7 @@
 Domotica
 
 home asinsten  https://www.youtube.com/watch?v=e_-tury9k1U&t=290s
+
+https://www.youtube.com/watch?v=5YleV2UodoE&list=PLOkfrWrF2MlnJCARuBJnbNnYdyQN2qMqZ&index=5
+
+
