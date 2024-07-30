@@ -23,3 +23,8 @@
 ----
 #### [--- ](https://github.com/ErickLopC/PENDIENTES_PLC/tree/main)
 
+
+
+Domotica
+
+home asinsten  https://www.youtube.com/watch?v=e_-tury9k1U&t=290s
