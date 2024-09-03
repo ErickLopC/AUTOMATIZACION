@@ -21,6 +21,12 @@
 #### [CORRIMIENTO DEL PROYECTO](https://github.com/ErickLopC/PENDIENTES_PLC/tree/main)
 
 ----
+
+## SIMULACION DE UN PROCESO DE EMPAQUETADO APPLICANDO GUIA GEMMA
+
+
+
+----
 #### [--- ](https://github.com/ErickLopC/PENDIENTES_PLC/tree/main)
 
 
